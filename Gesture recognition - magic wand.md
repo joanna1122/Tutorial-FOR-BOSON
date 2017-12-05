@@ -77,5 +77,5 @@ Find the required BOSON module, connect the module according to the following co
  ***Tips:***
 Please start with a simple action. After you master how to train the magic wand, you can set more creative action.
 <div align=center>
-***Try more complex gestures! This is your magic wand, I guess it's hard for anyone to copy your gesture correctly.***
+ ##Try more complex gestures! This is your magic wand, I guess it's hard for anyone to copy your gesture correctly.##
  </div>
