@@ -68,7 +68,7 @@ Find the required BOSON module, connect the module according to the following co
 </div>
   4. Press the button to start record action. You can draw a circle or write a "Z". The learning process is over, release the button.
   
-  **Note**
+   **Note**
  - The position and orientation of the Boson 101 MainBoard is important during the learning   process, especially at the beginning and end.
  - Record time is less than 5s
  - The speed of waving is also important
@@ -76,5 +76,6 @@ Find the required BOSON module, connect the module according to the following co
  
  ***Tips:***
 Please start with a simple action. After you master how to train the magic wand, you can set more creative action.
-
-*Try more complex gestures! This is your magic wand, I guess it's hard for anyone to copy your gesture correctly.*
+<div align=center>
+***Try more complex gestures! This is your magic wand, I guess it's hard for anyone to copy your gesture correctly.***
+ </div>
