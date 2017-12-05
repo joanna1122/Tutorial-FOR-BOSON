@@ -51,19 +51,19 @@ Find the required BOSON module, connect the module according to the following co
 
  1. Connect the battery box, turn on the power
  
-div align=center>
+<div align=center>
 <img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/switch.png" width="260" height="100" />
 </div>
 
  2. Put the modules together, making hand-held easily.
  
- div align=center>
+<div align=center>
 <img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/connection%202.jpg" width="700" height="500" />
 </div>
 
  
   3. Hold in your hand.
-   div align=center>
+<div align=center>
 <img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201712041824072.jpg" width="500" height="500" />
 </div>
   4. Press the button to start record action. You can draw a circle or write a "Z". The learning process is over, release the button.
