@@ -19,14 +19,14 @@ The magic wand is able to recognize a pre-recorded gesture.To record the gesture
 ### i2r Red Push Button
 
 <div align=center>
-<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/push%20button.png" width="200" height="300" />
+<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/gesture%20recognition/push%20button.png" width="200" height="300" />
 </div>
 Push Button is a commonly used switch. Press the middle of the big red button to record the gesture. Release, end the learning process
 
 ### o5 Buzzer Module
 
 <div align=center>
-<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/buzzer.png" width="200" height="300" />
+<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/gesture%20recognition/buzzer.png" width="200" height="300" />
 </div>
 
 Buzzer can make a sound. In this project,  when you "copy" the correct action, there will be a "beep" sound.
@@ -34,7 +34,7 @@ Buzzer can make a sound. In this project,  when you "copy" the correct action, t
 ### m3 Boson 101 MainBoard
 
 <div align=center>
-<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/101%20mainboard.png" width="250" height="350" />
+<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/gesture%20recognition/101%20mainboard.png" width="250" height="350" />
 </div>
 
 The BOSON 101 MainBoard is based on the Intel Curie platform and includes the Bluetooth Low Energy, 6-axis Accelerometo and gyroscope. Through the neural network training, can achieve a lot of novel features. Want to know more about neural network information? You can visit https://github.com/01org/Intel-Pattern-Matching-Technology/blob/master/README.md.
@@ -42,7 +42,7 @@ In the Coding kit, the program of magic wand is in the BOSON 101 MainBoard. You 
 ### How do these modules connect?
 Find the required BOSON module, connect the module according to the following connection diagram.
 <div align=center>
-<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/connection.png" width="450" height="300" />
+<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/gesture%20recognition/connection.png" width="450" height="300" />
 </div>
 
 ### How to play the magic wand ?
@@ -52,19 +52,19 @@ Find the required BOSON module, connect the module according to the following co
  1. Connect the battery box, turn on the power
  
 <div align=center>
-<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/switch.png" width="260" height="100" />
+<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/gesture%20recognition/switch.png" width="260" height="100" />
 </div>
 
  2. Put the modules together, making hand-held easily.
  
 <div align=center>
-<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/connection%202.jpg" width="700" height="500" />
+<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/gesture%20recognition/connection%202.jpg" width="700" height="500" />
 </div>
 
  
   3. Hold in your hand.
 <div align=center>
-<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201712041824072.jpg" width="500" height="500" />
+<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/gesture%20recognition/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201712041824072.jpg" width="500" height="500" />
 </div>
   4. Press the button to start record action. You can draw a circle or write a "Z". The learning process is over, release the button.
   
