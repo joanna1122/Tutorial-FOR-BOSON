@@ -25,4 +25,6 @@
 
 [Counting module](https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/COUNTING%20MODULE.md)
 
+[Motor module](https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/MOTOR%20MODULE.md)
+
 
