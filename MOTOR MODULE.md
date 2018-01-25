@@ -5,7 +5,7 @@
 
 The DC motor rotates a shaft when it receives a signal.The more signal it receives, the faster the motor will spin. The DC (or “direct current”) motor rotates a shaft when you send it a signal. The CW/CCW (clockwise and counter-clockwise) switch controls the direction it rotates.
 
-
+![image](https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/%E7%94%B5%E6%9C%BA%E6%A8%A1%E5%9D%97.png)
 
 It has two modes. 
 
@@ -16,13 +16,23 @@ When the switch is in A mode, the amount of signal the motor receives from previ
 
 
 ## Specification:
+
 Operating voltage: 3.3~5V 
+
 Reduction ratio: 50:1
+
 Static current: < 1mA (no PWM control signal input)
+
 Interface: Gravity 3-Pin
+
 PPM signal resolution: 1us
+
 PPM signal pulse width range: 500us-2500us
+
 Clockwise pulse width range: 500us-1400us (500us speed maximum)
+
 Stop pulse width range: 1400us-1600us
+
 Anticlockwise pulse width range: 1600us-2500us (2500us speed maximum)
+
 PWM frequency: 500 Hz.
