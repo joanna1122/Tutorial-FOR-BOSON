@@ -47,6 +47,7 @@ Find the required BOSON module,connect the module according to the following con
 
 ![image](https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/puppet%20timer/%E8%93%9D%E8%89%B2%E6%97%8B%E9%92%AE%E8%B0%83%E8%8A%82%E5%9B%BE.png)
 
+
 3.Turn the switch to the duration mode and the indicator will light.
 
 ![image](https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/puppet%20timer/duration%E6%A8%A1%E5%BC%8F%E5%9B%BE.png)
