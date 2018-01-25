@@ -1,6 +1,8 @@
 ﻿# Puppet Timer
 ----------
-Friends come to your house this evening party, you want to prepare a sumptuous dinner for them, so you decide to make steak entertain them. You need to cook different tastes of steak to meet the different tastes of friends, how to do? Maybe you need a timer. So, how to make such a timer?
+Friends come to your house this evening party, you want to prepare a sumptuous dinner for them, so you decide to make steak entertain them. You need to cook different tastes of steak to meet the different tastes of friends, how to do? 
+
+Maybe you need a timer. So, how to make such a timer?
 
 ## What kind of BOSON module do you need? ##
 ----------
@@ -35,7 +37,7 @@ Find the required BOSON module,connect the module according to the following con
 
 ![image](https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/puppet%20timer/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E6%8E%A5%E5%9B%BE.png)
 
-** Duration module**
+**Duration module**
 
 1.Connect the battery box,turn on the power.
 
@@ -52,7 +54,7 @@ Find the required BOSON module,connect the module according to the following con
 4.When the i2r red push butten is pressed, the buzzer sounds for the duration of the time indicated by the blue knob.
 
 
-** Delay module**
+**Delay module**
 
 1.Turn the switch to the delay mode,the indicator light, and the buzzer sounded.
 
