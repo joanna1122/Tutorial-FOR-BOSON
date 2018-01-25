@@ -7,7 +7,7 @@ The counting module is a 3-bit digital LED that can be used to display the volta
 ## COUNTING MODULE
 
 <div align=center>
-<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/counting%20module/%E5%9B%BE/%E5%9B%BE1.png" width="200" height="300" />
+<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/counting%20module/%E5%9B%BE/%E5%9B%BE1.png" width="500" height="300" />
 </div>
 
 Two modes and four switch positions of the counting module.
@@ -33,7 +33,7 @@ Read mode is at the right position of the switch, there are two levels: value an
 **How to connect**
 
 <div align=center>
-<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/counting%20module/%E5%9B%BE/COUNT%20MODE.png" width="200" height="300" />
+<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/counting%20module/%E5%9B%BE/COUNT%20MODE.png" width="500" height="300" />
 </div>
 ***
 
@@ -58,7 +58,7 @@ And set the counting module to Count-Down, counting from 999. Each time you pres
 **How to connect**
 
 <div align=center>
-<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/counting%20module/%E5%9B%BE/READ%20MODE.png" width="200" height="300" />
+<img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/counting%20module/%E5%9B%BE/READ%20MODE.png" width="500" height="300" />
 </div>
 
 
