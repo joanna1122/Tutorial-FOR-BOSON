@@ -18,7 +18,7 @@
 
 [ Gesture recognition - magic wand](https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/Gesture%20recognition%20-%20magic%20wand.md)
 
-[Puppet Timer]
+[Puppet Timer](https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/Puppet%20Timer.md)
 
 
 **3. Module tutorial**
