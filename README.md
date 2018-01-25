@@ -23,6 +23,6 @@
 
 **3. Module tutorial**
 
-[Counting module]
+[Counting module](https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/COUNTING%20MODULE.md)
 
 
