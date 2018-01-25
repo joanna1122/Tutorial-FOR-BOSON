@@ -8,8 +8,10 @@ The counting module is a 3-bit digital LED that can be used to display the volta
 
 （图1）
 Two modes and four switch positions of the counting module.
+
 **1. Count Mode**.  
 Count Mode is at the left position of the switch, there are two levels: up and down. In this mode, when pressing RESET button, the number will be back to the initial value.
+
 **2. Read mode**.  
 Read mode is at the right position of the switch, there are two levels: value and volts.
 
@@ -24,7 +26,9 @@ Read mode is at the right position of the switch, there are two levels: value an
 | Rotation        |    1（i1）    |  In the circuit can continuously control the level of the output signal |
 
 ##COUNT MODE
+
 **How to connect**
+
 （图）
 ***
 
@@ -47,11 +51,13 @@ And set the counting module to Count-Down, counting from 999. Each time you pres
 
 **There are two counting functions in Read mode:**
 > * **Read-Value**
+
 （GIF）
 Connect as shown in the figure,connect the battery box, turn on the power.
 And set the counting module to Read-Value(at the left position of the switch),the Rotation continuously controls the analog voltage outputs from 0 to 999.
 
 > * **Read-Volts**
+
 （GIF）
 Connect as shown in the figure,connect the battery box,turn on the power.
 And set the counting module to Read-Volts(at the right position of the switch),the Rotation continuously controls the voltage output from 0 to 5.5.
