@@ -4,7 +4,7 @@
     
 The counting module is a 3-bit digital LED that can be used to display the voltage of the signal through the circuit, can also be used to count. We will explain how to use it below.
 
-## COUNTING MODULE
+ ## COUNTING MODULE
 
 <div align=center>
 <img src="https://github.com/joanna1122/Tutorial-FOR-BOSON/blob/master/image/counting%20module/%E5%9B%BE/%E5%9B%BE1.png" width="500" height="300" />
@@ -28,7 +28,7 @@ Read mode is at the right position of the switch, there are two levels: value an
 | Main Board        |    1（m2）    |  No programming, can be used directly after connected  |
 | Rotation        |    1（i1）    |  In the circuit can continuously control the level of the output signal |
 
-##COUNT MODE
+ ## COUNT MODE
 
 **How to connect**
 
@@ -53,7 +53,7 @@ And set the counting module to Count-Up, counting from 0. Each time you press th
 Connect as shown in the figure,connect the battery box, turn on the power.
 And set the counting module to Count-Down, counting from 999. Each time you press the input button, the number is displayed automatically -1, the minimum value can be 0. When you press the reset button, the number returns to the initial value of 999.
 
-##READ MODE
+ ## READ MODE
 
 **How to connect**
 
